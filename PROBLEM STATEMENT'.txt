@@ -1,0 +1,20 @@
+PROBLEM STATEMENt
+
+A leading retail company want to better understand its customer's shoping behaviour in order to improve sales, customer satisfaction, and long-term loyalty.The management team has noticed changes in purchasing pattern across demographics, product categories,and sales channels(online vs offline). or payment prefrence,drive consumer decision and repeat purchases.
+
+You are tasked with analyzing the company's consumer behaviour dataset to answer the following overarching business question:
+
+"How can the company leverage consumer shopping data to identify trends,improve customer engagement, and optimize marketing and product strategies?"
+
+
+DELIVERABLES
+
+1. Data Preparation & Modeling(python):Clean and transform the raw dataset for analysis.
+
+2. Data Analysis(SQL):Organize the data into structured format, simulate business transactions, and run queries to extract insight on customer segments, loyalty, and purchase drivers
+
+3. Visualization & Insight(Power BI):Build and interactive dashboard that highlights key pattern and trends, enabling stakeholder to make data-driven decisions.
+
+4. Report and presentation:Write a clear project report summerizing your key finding and business recommendations.Prepare a presentation that visually communicates insights and actionables recommendation to stakeholders.
+
+5. GitHub Repository:Include all python scripts, SQL queries and dashboard files a well structure repository.
